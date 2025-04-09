@@ -1,3 +1,6 @@
+## [0.7.5]
+* Use module.wasmExports instead of module.asm if available. Fixes compatibility with emscripten 3.1.44+.
+
 ## [0.7.4]
 * UTF8 extension and `Char` type.
 
